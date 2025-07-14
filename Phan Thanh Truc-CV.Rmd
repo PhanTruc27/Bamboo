@@ -1,0 +1,235 @@
+---
+title: "CV-Apply for job"
+author: "Phan Thanh Truc"
+date: "2025-07-10"
+output: html_document
+---
+<div style="
+  background-color:  #fffaf0;
+  padding: 12px 16px;
+  border-radius: 15px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-family: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
+  color: #2c3e50;
+  line-height: 2;
+">
+
+📞 <strong style="font-size: 24px; color: #e74c3c;">Contact</strong><br>
+**<strong>Email:</strong> phanthanhtruc@gmail.com<br>**
+<strong>Phone:</strong> 0987238123<br>
+<strong>Address:</strong> Bình Dương, Việt Nam
+
+</div>
+
+
+
+<div style="width:40%; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
+   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2a2a14c-0ccc-4ee3-a086-0942d1be4808/d58zgah-0fdc9e2b-a139-4a68-9421-16a298df9d88.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyYTJhMTRjLTBjY2MtNGVlMy1hMDg2LTA5NDJkMWJlNDgwOFwvZDU4emdhaC0wZmRjOWUyYi1hMTM5LTRhNjgtOTQyMS0xNmEyOThkZjlkODguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ddLQ1pq9QbCsvxp3lJM-ve6jQ0nP5EwXHcQyi61A5zA" 
+     style="margin-left: 0px; width: 700px; border-radius: 20px;">
+</div>
+
+
+
+<!-- === EDUCATION === -->
+<div style="
+  background-color: #fff7f7;
+  border-left: 5px solid #CB4335;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+">
+🧑‍🎓 <span style="color:#CB4335; font-size:22px; font-weight:bold;">EDUCATION</span><br><br>
+<ul style="font-size: 17px; line-height: 1.6; color:#2c3e50;">
+  <li><strong>2023</strong>: Tốt nghiệp THPT Võ Minh Đức</li>
+  <li><strong>2027</strong>: Tốt nghiệp ĐH Eastern International University</li>
+</ul>
+</div>
+
+<!-- === ACHIEVEMENTS === -->
+<div style="
+  background-color: #fffaf0;
+  border-left: 5px solid #D68910;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+">
+🏆 <span style="color:#D68910; font-size:22px; font-weight:bold;">ACHIEVEMENTS</span><br><br>
+<ul style="font-size: 17px; line-height: 1.6; color:#2c3e50;">
+  <li><strong>2025</strong>: Achieved HSK Level 5 certificate with 237/300 scores</li>
+  <li><strong>2023</strong>: Obtained IELTS score of 6.0</li>
+  <li><strong>2026</strong>: Second Prize in the “Data Analytics Application” competition</li>
+</ul>
+</div>
+
+<!-- === WORK EXPERIENCE === -->
+<div style="
+  background-color: #f7f3ff;
+  border-left: 5px solid #8E44AD;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+">
+💼 <span style="color:#8E44AD; font-size:22px; font-weight:bold;">WORK EXPERIENCES</span><br><br>
+<ul style="font-size: 17px; line-height: 1.6; color:#2c3e50;">
+  <li><strong>2025</strong>: Chinese Language Teacher – Tutoring and conducting online demo classes</li>
+  <li><strong>2023</strong>: Data Analysis Intern – ABC Company</li>
+  <li><strong>2023</strong>: E-commerce Intern – Shopee Vietnam</li>
+  <li><strong>2022</strong>: Teaching Assistant – Introductory Economics course at UEH</li>
+</ul>
+</div>
+
+<!-- === SKILLS === -->
+<div style="
+  background-color: #eaf2fb;
+  border-left: 5px solid #2980b9;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #2c3e50;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+">
+💻 <span style="color:#2980b9; font-size:22px; font-weight:bold;">SKILLS</span><br><br>
+
+🔹 Proficient in data analysis using <strong>R</strong> and <strong>Python</strong><br>
+🔹 Skilled in advanced <strong>Excel</strong> and <strong>Google Sheets</strong><br>
+🔹 Strong <strong>presentation</strong>, <strong>communication</strong>, and <strong>teaching</strong> skills<br>
+🔹 Experienced with <strong>ggplot2</strong>, <strong>tidyverse</strong>, and <strong>Shiny</strong>
+</div>
+
+
+
+[click here if you are  VietNamses](https://www.canva.com/design/DAGrJIMTzcA/8FszLLo88R3IfxbJNuo2KQ/edit?utm_content=DAGrJIMTzcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+
+
+
+
+```{=html}
+<style>
+.tabs {
+  display: flex;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 20px;
+}
+.tab {
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: bold;
+  border-bottom: 3px solid transparent;
+}
+.tab.active {
+  border-bottom: 3px solid #d68910;
+  color: #d68910;
+}
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
+</style>
+
+<div class="tabs">
+  <div class="tab active" data-tab="part1">Teaching Experiences</div>
+  <div class="tab" data-tab="part2">EIU University</div>
+  <div class="tab" data-tab="part3">Field Study</div>
+</div>
+
+<div class="tab-content active" id="part1">
+
+  <
+  auto; margin-bottom: 20px;">
+     <img src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0w6ODGjzjCay4I4NrI6LKXgZaP5OSlAs0f1aJ4_uYD5SnqPc7VtakZ3tuDroQrbgckRWYnoSq5iOizJdljUClq0v2MQNNbJge7gEZQOx1lNR77LzyWSjkIlqo8dArMjDAQAnN=s1360-w1360-h1020-rw"
+     style="margin-right: 10px; width: 700px; border-radius: 20px;line-height: 2">
+  
+</div>
+
+
+  <p><b>ABC center</b><br></p>
+
+  Tôi có kinh nghiệm giảng dạy tiếng Trung cho nhiều đối tượng học viên ở các độ tuổi và trình độ khác nhau tại các trung tâm ngoại ngữ. Trong quá trình giảng dạy, tôi luôn chú trọng đến yếu tố "trải nghiệm học tập thực tế và tương tác trực tiếp". Tôi thường kết hợp các phương pháp giảng dạy hiện đại như học qua tình huống, đóng vai, trò chơi ngôn ngữ, và thảo luận nhóm, giúp học viên sử dụng tiếng Trung một cách tự nhiên và tự tin.   
+
+Ngoài ra, tôi cũng thường xuyên tổ chức các buổi học ngoại khóa như “Ngày hội tiếng Trung”, “Ẩm thực Trung Hoa”, hay “Thử thách giao tiếp” nhằm tạo môi trường sử dụng ngôn ngữ sống động và gần gũi. Học viên không chỉ học tiếng mà còn được trải nghiệm văn hóa Trung Hoa một cách sinh động, từ đó tăng thêm hứng thú và ghi nhớ lâu dài.    
+
+Tôi tin rằng một tiết học hiệu quả không chỉ nằm ở kiến thức truyền đạt mà còn ở cảm xúc tích cực và sự gắn kết của học viên. Vì vậy, tôi luôn nỗ lực để mỗi buổi học trở thành một hành trình trải nghiệm ngôn ngữ đầy cảm hứng.</p>
+
+</div>
+
+<div class="tab-content" id="part2">
+
+ <!-- 🖼️ Hình ảnh ở trang đầu tiên -->
+  <div style="width:40%; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
+     <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Ym1jsivBuaf7JyLWC4iA8CQv-rOBMsSQfZQV4O7j0Sy7XmQTf6sFqp15_nlcxz0xnls&usqp=CAU
+     style="margin-right: 10px; width: 700px; border-radius: 20px;line-height: 2">
+  
+</div>
+
+  <p><b>STUDY JOURNEY</b><br></p>
+
+  🏫 Lợi ích khi học đại học tại EIU (Eastern International University)
+Chương trình học chuẩn quốc tế
+EIU xây dựng chương trình đào tạo theo hướng quốc tế hóa, kết hợp giữa lý thuyết và thực hành. Nhiều ngành học được giảng dạy hoàn toàn bằng tiếng Anh, giúp sinh viên phát triển năng lực ngoại ngữ và dễ dàng hội nhập quốc tế.
+
+Cơ hội việc làm cao sau khi tốt nghiệp
+Nhờ mối quan hệ chặt chẽ giữa EIU và Becamex IDC, sinh viên được kết nối trực tiếp với các doanh nghiệp trong và ngoài nước, đặc biệt là trong Khu công nghiệp VSIP và Khu công nghiệp Mỹ Phước. Điều này giúp tăng khả năng thực tập và việc làm sau tốt nghiệp.
+
+Cơ sở vật chất hiện đại
+EIU có khuôn viên rộng rãi, thư viện lớn, phòng lab hiện đại, ký túc xá tiện nghi và không gian học tập thân thiện. Đây là môi trường lý tưởng để sinh viên học tập và phát triển bản thân toàn diện.
+
+Giảng viên chất lượng cao
+Đội ngũ giảng viên tại EIU bao gồm nhiều giáo sư, tiến sĩ trong và ngoài nước, có chuyên môn sâu và giàu kinh nghiệm thực tế. Sinh viên được truyền đạt kiến thức gắn liền với thực tiễn và xu hướng toàn cầu.
+
+Cơ hội trao đổi quốc tế
+Sinh viên EIU có cơ hội tham gia các chương trình trao đổi, du học ngắn hạn hoặc học chuyển tiếp tại các trường đại học đối tác ở Mỹ, Úc, Nhật Bản, Hàn Quốc... Điều này giúp mở rộng tầm nhìn và tăng giá trị bằng cấp.</p>
+</div>
+
+<div class="tab-content" id="part3">
+
+  <div style="width:40%; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
+     <img src="https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/how-does-the-economy-work-606x303.jpg.optimal.jpg"
+     style="margin-right: 10px; width: 700px; border-radius: 20px;line-height: 2">
+  
+</div>
+  <p><b>Field Study</b><br></p>
+🏫 Lợi ích khi học đại học tại EIU (Eastern International University)
+Chương trình học chuẩn quốc tế
+EIU xây dựng chương trình đào tạo theo hướng quốc tế hóa, kết hợp giữa lý thuyết và thực hành. Nhiều ngành học được giảng dạy hoàn toàn bằng tiếng Anh, giúp sinh viên phát triển năng lực ngoại ngữ và dễ dàng hội nhập quốc tế.
+
+Cơ hội việc làm cao sau khi tốt nghiệp
+Nhờ mối quan hệ chặt chẽ giữa EIU và Becamex IDC, sinh viên được kết nối trực tiếp với các doanh nghiệp trong và ngoài nước, đặc biệt là trong Khu công nghiệp VSIP và Khu công nghiệp Mỹ Phước. Điều này giúp tăng khả năng thực tập và việc làm sau tốt nghiệp.
+
+Cơ sở vật chất hiện đại
+EIU có khuôn viên rộng rãi, thư viện lớn, phòng lab hiện đại, ký túc xá tiện nghi và không gian học tập thân thiện. Đây là môi trường lý tưởng để sinh viên học tập và phát triển bản thân toàn diện.
+
+Giảng viên chất lượng cao
+Đội ngũ giảng viên tại EIU bao gồm nhiều giáo sư, tiến sĩ trong và ngoài nước, có chuyên môn sâu và giàu kinh nghiệm thực tế. Sinh viên được truyền đạt kiến thức gắn liền với thực tiễn và xu hướng toàn cầu.
+
+Cơ hội trao đổi quốc tế
+Sinh viên EIU có cơ hội tham gia các chương trình trao đổi, du học ngắn hạn hoặc học chuyển tiếp tại các trường đại học đối tác ở Mỹ, Úc, Nhật Bản, Hàn Quốc... Điều này giúp mở rộng tầm nhìn và tăng giá trị bằng cấp.</p>
+</div>
+
+<script>
+const tabs = document.querySelectorAll('.tab');
+const contents = document.querySelectorAll('.tab-content');
+tabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    tabs.forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    contents.forEach(c => c.classList.remove('active'));
+    document.getElementById(tab.dataset.tab).classList.add('active');
+  });
+});
+</script>
+```
+
+
+
